@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0jaHBdadq33sYPcVYAYmzbVLQzNKs92LaNOQTy8GGRo=",
+  "Source": "FlightPricesAPI",
+  "BasePath": "_content/FlightPricesAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
